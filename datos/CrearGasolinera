@@ -1,0 +1,13 @@
+tipo:gaso1:10000:999.0
+tipo:gaso3:30000:777.0
+tipo:gaso2:40000:444.0
+tipo:gaso4:10000:616.0
+surtidor:Empleado1:gaso1:0.0:gaso3:0.0:gaso2:0.0:gaso4:0.0
+surtidor:Empleado3:gaso1:0.0:gaso3:0.0:gaso2:0.0:gaso4:0.0
+surtidor:Empleado5:gaso1:0.0:gaso3:0.0:gaso2:0.0:gaso4:50.0
+surtidor:Empleado4:gaso1:0.0:gaso3:0.0:gaso2:0.0:gaso4:0.0
+empleado:Empleado1:0
+empleado:Empleado2:0
+empleado:Empleado3:0
+empleado:Empleado4:0
+empleado:Empleado5:500000
